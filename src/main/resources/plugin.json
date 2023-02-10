@@ -3,5 +3,6 @@
   "author": "Mindustry Inside",
   "main": "inside.LightweightHub",
   "description": "A lightweight hub plugin for servers.",
-  "version": "0.7"
+  "version": "0.7",
+  "minGameVersion": 140.4
 }
